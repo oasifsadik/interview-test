@@ -1,0 +1,17 @@
+.navbar {
+    background-color: blue;
+    border-radius: 30px;
+}
+
+.sidebar {
+    background-color: blue;
+    border-radius: 30px;
+    height: 100%;
+}
+
+.footer {
+    background-color: blue;
+    height: 100px;
+    border-radius: 30px;
+    bottom: 0px;
+}
