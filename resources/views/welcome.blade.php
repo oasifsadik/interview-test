@@ -14,7 +14,7 @@
                 <div class="container">
                     <div class="menu">
                         <ul class="d-flex">
-                            <h1 class="text-white">start 3:20pm</h1>
+                            <h1 class="text-white">start 3:20pm end 4:30pm</h1>
                         </ul>
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                         @endforeach
                     </div>
                     <div class="footer mt-3 p-3">
-                        <h1 class="text-center text-white">Git link : https://github.com/oasifsadik/test </h1>
+                        <h1 class="text-center text-white">Git link : https://github.com/oasifsadik/interview-test </h1>
                     </div>
                 </div>
 
