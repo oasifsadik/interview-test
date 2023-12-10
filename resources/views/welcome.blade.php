@@ -46,7 +46,7 @@
                                     {{ $post->title }}
                                 </div>
                                 <div class="card-body">
-                                    <p class="card-text">{{ $post->content }}</p>
+                                    <p class="card-text">{{ $post->description }}</p>
                                     <p class="card-text">Author: {{ $post->user->name }}</p>
                                 </div>
                             </div>
